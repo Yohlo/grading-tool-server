@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^api/?$ /u/b351/cgi-pub/dev/server/api.cgi$1 [L]
