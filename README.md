@@ -3,7 +3,7 @@
 
 This server/web API was created in a rushed timeframe before the start of the Spring 2019 semester to be used for CSCI-B351 Intro to AI as an autograder.
 
-The front-end for the autograder was created using React.js and can be found at this repo: Link (todo)
+The front-end for the autograder was created using React.js and can be found at this repo: [grading-tool-site](https://github.com/Yohlo/grading-tool-site)
 
 This project is mostly undocumented. A complete rewrite (with documentation!) for the Fall 2019 semester is currently in progress. 
 
